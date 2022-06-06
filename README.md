@@ -31,9 +31,9 @@ It offers the choice to  insert inputdata from the keyboard to the following tab
 
 To run the application git clone the following repository: https://github.com/sotigian/Private-School-Management.git
 
-Execute: npm i
-
 Change to directory mini_project
+
+Execute: npm i
 
 Execute: npm run start
 
